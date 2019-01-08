@@ -1,72 +1,71 @@
 <!-- <p style="text-align: center;"><b>Languages:</b></p>
 <p style="text-align: center;">English(Current) | <a href="https://crownsquad.github.io/karu-es"> Spanish</a></p>-->
 
-# ¿Quien soy?
-> ¡Hola!, mi nombre es karu n.n. Tengo 16 años y vengo a discord a ayudar a las comunidades a compartir experiencias únicas y divertidas. Puedo ayudarte a interactuar con otras personas, darles abrazitos, besitos, cariñitos... Muchas cosas monas :3.
+# Who I am?
+> Hello!, my name is karu n.n. I am 16 years old and I come to discord to help communities to share unique and fun experiences. I can help you interact with other people, give them hugging, kissing, caring ... Many cute things: 3.
+## Commands
+- All my commands work with the prefix **//**
+- **Required** <> | **Optional** []
 
-## Comandos
-- Todos mis comandos funcionan con el prefijo **//**
-- **Obligatorio** <> | **Opcional** []
-
-### Tipos de comandos:
+### Types of commands:
 - [General](#general-)
-- [Utilidad](#utilidad-)
-- [Entretenimiento](#entretenimiento-)
-- [Interacción](#interacción-)
+- [Utility](#utility-)
+- [Entertainment](#entertainment-)
+- [Interaction](#interaction-)
 - [NSFW](#nsfw-)
 
-### Antes de comenzar con los comandos:
-- [**Estado de los comandos**](#estado-de-los-comandos)
-- [¿Que es una variable?](#que-es-una-variable)
-- [¿Como puedo reportar un error?](#como-puedo-reportar-un-error)
+### Before starting with the commands:
+- [**Status of commands**](#status-of-commands)
+- [What is a variable?](#what-is-a-variable)
+- [How can I report an error?](#how-can-I-report-an-error)
 
 ## General [🔺](#content)
 
-|Comando|Uso|Ejemplo|Variables
+|Command|Use|Example|Variables
 |--|--|--|--|
-|avatar|Mostrare el avatar de quien me digas| //avatar `<Variable>`|@user/ID
-|say|Podrás enviar un mensaje por medio de mi| //say `<Mensaje>`| Ninguno
-|esay|Similar a *say*, pero tipo Embed|//esay `<Mensaje>`| Ninguno
-|ping|Muestro la velocidad tanto de la api como la del mensaje|//ping|Ninguno
-|timer🔨|Programa a karu para que te envié una notificación|//timer `<Tiempo> | <Mensaje>`|Ninguno
-|upvote|Te mostrare una lista de paginas en las cuales puedes mostrar tu apoyo votando por mi uwu|//upvote|Ninguno
-|short|Acorta enlaces (enlaces mas chiquitos OwO)|//short `<Enlace>`|Ninguno
-|sug|¿Tienes ideas que ayuden a mi creador a mejorarme?|//sug|Ninguno
-|bug|Reporta algún error que pueda tener >u<|//bug `<Mensaje>`|Ninguno
-|about|Una pequeña historia para leer comiendo palomitas de maíz|//about|Ninguno
-|invite|¿Te interesa invitarme a algún servidor?|//invite|Ninguno
+|avatar|I will show the avatar of who you tell me| //avatar `<Variable>`|@user/ID
+|say|You can send a message through me| //say `<Message>`| None
+|esay|Similar a *say*, pero tipo Embed|//esay `<Message>`| None
+|ping|I show the speed of both the API and the message|//ping|None
+|timer🔨|Program to karu so that I sent you a notification|//timer `<Time> | <Message>`|None
+|upvote|I will show you a list of pages in which you can show your support by voting for my uwu|//upvote|None
+|short|Short links (smaller links OwO)|//short `<URL>`|None
+|sug|Do you have ideas that help my creator improve?|//sug|None
+|bug|Report any errors you may have> u <|//bug `<Message>`|None
+|about|A little story to read while eating popcorn|//about|None
+|invite|Are you interested in inviting me to a server?|//invite|None
 
-## Utilidad [🔺](#content)
+## Utility [🔺](#content)
 
-|Comando|Uso|Ejemplo|Variables
+|Command|Use|Example|Variables
 |--|--|--|--|
-|uinfo|Te mostrare toda la información que pueda de un usuario o incluso de ti|//uinfo `<Variables>`|@user/ID
-|sinfo|Te puedo mostrar información del servidor en el cual estas n.n|//sinfo|Ninguno
-|sroles♻️|Te dare una lista de roles del servidor|//sroles|Ninguno
-|jumbo♻️|Ampliare el emoji que quieras.|//jumbo `<Emoji>`|Ninguno
+|uinfo|I will show you all the information I can about a user or even about you|//uinfo `<Variables>`|@user/ID
+|sinfo|I can show you information on the server on which you are n.n|//sinfo|None
+|sroles♻️|I'll give you a list of server roles|//sroles|None
+|jumbo♻️|I will expand the emoji you want|//jumbo `<Emoji>`|None
 
-## Entretenimiento [🔺](#content)
+## Entertainment [🔺](#content)
 
-|Comando|Uso|Ejemplo|Variables
+|Command|Use|Example|Variables
 |--|--|--|--|
-|emoji|Puedo enviar cualquier emoji del servidor en el que este|//emoji `<Variable>`| list/random
-|8ball|¿Quieres que adivine tu futuro? **Solo ingles**|//8ball `<Mensaje>`|Ninguno
-|?|¿Quieres que adivine tu futuro? **Solo español**|//? `<Mensaje>`|Ninguno
-|trap🔸|¡Puedo generarte una identificación falsa para tener *trapitos*!|//trap `[variable]`| @user/ID
-|loli🔸|¡Puedo generarte una identificación falsa para tener *lolis*!|//loli `[Variable]`|@user/ID
-|murder🔸|¡Asesina a alguien sin piedad!|//murder `<Variable>`|Ninguno
-|reverse|Da vuelta un texto @.@|//reverse `<Texto>`|Ninguno
-|roll|Rueda la ruleta y deja que salga un numero al azar|//roll `[Variable]`|Numero/Ninguno
+|emoji|I can send any emoji from the server on which this|//emoji `<Variable>`| list/random
+|8ball|Do you want me to guess your future? **English only**|//8ball `<Message>`|None
+|?|Do you want me to guess your future? **Spanish only**|//? `<Message>`|None
+|trap🔸|I can generate a fake ID to have *traps*!|//trap `[variable]`| @user/ID
+|loli🔸|I can generate a fake ID to have *lolis*!|//loli `[Variable]`|@user/ID
+|murder🔸|Kill someone without mercy!|//murder `<Variable>`|None
+|reverse|Flip a text @. @|//reverse `<Text>`|None
+|roll|Roll the wheel and let a random number come out|//roll `[Variable]`|Number/None
 
-## Interacción [🔺](#content)
+## Interaction [🔺](#content)
 
-|Comando|Uso|Ejemplo|Variables
+|Command|Use|Example|Variables
 |--|--|--|--|
-|eat|Notificare que estas comiendo OwO|//eat|Ninguno
-|hug|¿A quien quieres darle un abrazo?|//hug `[Variable]`|@user/ID
-|pat|Démosle palmaditas a alguien Onii-chan UwU|//pat `[Variable]`|@user/ID
-|kiss|Dale besitos a quien quieras 7U7|//kiss `<Variable>`|@user/ID
-|kill|¿A-asesinaras a alguien?|//kill `<Variable>`|@user/ID
+|eat|I will notify you that you are eating OwO|//eat|None
+|hug|Who do you want to hug?|//hug `[Variable]`|@user/ID
+|pat|Let's pat someone Onii-chan UwU|//pat `[Variable]`|@user/ID
+|kiss|Give kisses to whoever you want 7U7|//kiss `<Variable>`|@user/ID
+|kill|Will you assassinate someone?|//kill `<Variable>`|@user/ID
 
 ## NSFW [🔺](#content)
 
